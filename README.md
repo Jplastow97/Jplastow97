@@ -7,15 +7,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 \-Computer Science & Cybersecurity student, future AI developer 😎
 ------------------------------------
 
-Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Computer Science, and I intend to follow up with my M.S. in Cybersecurity. I recently made the jump from sales to tech as I've always been involved in STEM but was just too caught up in life to manage University, until now. Working in sales has left me feeling unfulfilled and like I am contributing towards nothing of value, I want to be a creator, a researcher, and make a difference in a field I've been passionate about since I was a child. My long-term goal is to create an AI development team with a focus on cybersecurity and penetration testing, as well as security education. I'd love to get connected with other students, developers, and techs involved in cybersecurity, not for one specific reason, but many. I hope you stick around and watch my growth and list of achievements grow as I progress towards my goals, and I hope that you too, can achieve everything you wish for. Let's change the world :).
+Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Computer Science, and I intend to follow up with my M.S. in Cybersecurity and Information Assurance. I recently made the jump from sales to tech as I've always been involved in STEM but was just too caught up in life to manage University, until now. Working in sales has left me feeling unfulfilled and like I am contributing towards nothing of value, I want to be a creator, a researcher, and make a difference in a field I've been passionate about since I was a child. My long-term goal is to create an AI development team with a focus on cybersecurity and penetration testing, as well as security education. I'd love to get connected with other students, developers, and techs involved in cybersecurity, not for one specific reason, but many. I hope you stick around and watch my growth and list of achievements grow as I progress towards my goals, and I hope that you too, can achieve everything you wish for. Let's change the world :).
 
 * 🌍  I'm based in Clearwater, FL, USA, but I have hopes of being fully remote one day so I can explore the world ✈️🌏
 * 🖥️  See my portfolio at [wordpress.com!](http://wordpress.com)
 * ✉️  You can contact me at [miostechtime@gmail.com](mailto:miostechtime@gmail.com)
 * 🚀  I'm currently working on [my home lab!](http://wordpress.com)
-* 🧠  I'm learning all of these certifications: AWS Cloud Practitioner, CompTIA A+, Google Cybersecurity, Google UX Design, IBM Applied AI Professional, Axelos ITIL, and more... (*dun dunn dunnn*)
+* 🧠  I'm learning all of these certifications: AWS Cloud Practitioner, CompTIA A+, Google Cybersecurity, Google UX Design, IBM Applied AI Professional, Axelos ITIL, and more... *dun dunn dunnn*
 * 🤝  I'm open to collaborating on just about anything pertaining to AI or Cybersecurity, but I'm particularly fond of creative ventures.  
-* ⚡  I like pizza 🍕, Japanese whisky 🍸, and people who aren't rude ❤️
+* ⚡  I like pizza 🍕, Japanese whisky 🍸, supporting small businesses 🧑‍🎨, and dislike rude people. ❤️
 
 
 ### Skills
@@ -30,4 +30,6 @@ Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Compu
 
 <p align="left"> <a href="https://www.github.com/MiosTechTime" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jonathonplastow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![](
+Goodbye 👋, good luck 🌟, and good code 🖱️
+
+![](https://github.com/MiosTechTime/MiosTechTime/blob/main/giphy%20(1).gif)
