@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathon, but I prefer "Mio".    
 =====================================================================================================================================================
 
-\-CompSCi student and future AI developer 😎
+\-Computer Science & Cybersecurity student, future AI developer 😎
 ------------------------------------
 
 Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Computer Science, and I intend to follow up with my M.S. in Cybersecurity. I recently made the jump from sales to tech as I've always been involved in STEM but was just too caught up in life to manage University, until now. Working in sales has left me feeling unfulfilled and like I am contributing towards nothing of value, I want to be a creator, a researcher, and make a difference in a field I've been passionate about since I was a child. My long-term goal is to create an AI development team with a focus on cybersecurity and penetration testing, as well as security education. I'd love to get connected with other students, developers, and techs involved in cybersecurity, not for one specific reason, but many. I hope you stick around and watch my growth and list of achievements grow as I progress towards my goals, and I hope that you too, can achieve everything you wish for. Let's change the world :).
