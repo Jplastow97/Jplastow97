@@ -14,8 +14,9 @@ Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Compu
 * ✉️  You can contact me at [miostechtime@gmail.com](mailto:miostechtime@gmail.com)
 * 🚀  I'm currently working on [my home lab!](http://wordpress.com)
 * 🧠  I'm learning all of these certifications: AWS Cloud Practitioner, CompTIA A+, Google Cybersecurity, Google UX Design, IBM Applied AI Professional, Axelos ITIL, and more... (*dun dunn dunnn*)
-* 🤝  I'm open to collaborating on just about anything pertaining to AI or Cybersecurity, but I'm particularly fond of creative ventures.
-* ⚡  I like pizza 🍕, Japanese whisky 🍸, and people who aren't rude ❤️ 
+* 🤝  I'm open to collaborating on just about anything pertaining to AI or Cybersecurity, but I'm particularly fond of creative ventures.  
+* ⚡  I like pizza 🍕, Japanese whisky 🍸, and people who aren't rude ❤️
+
 
 ### Skills
 
@@ -28,3 +29,5 @@ Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Compu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MiosTechTime" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jonathonplastow" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+![](
