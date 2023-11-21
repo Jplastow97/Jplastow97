@@ -1,4 +1,3 @@
-<div class="tenor-gif-embed" data-postid="13765417" data-share-method="host" data-aspect-ratio="1.23333" data-width="100%"><a href="https://tenor.com/view/hello-hi-pout-gif-13765417">Hello Hi GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 👋 Hi, I’m @Jplastow97 // Jonathon Plastow ^_^ .
 - I am a Tech Student studying for my B.S. in Computer Science, and I will be following it with my M.S. in Cybersecurity. I plan on becoming an AI developer with a focus on Cybersecurity, but I also would like to do some fun and artistic AI things on the side :) 
 - 👀 I’m interested in: Generative Design, AI, UI/UX, and Cybersecurity 💻 .
