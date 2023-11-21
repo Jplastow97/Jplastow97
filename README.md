@@ -1,18 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathon, but I prefer "Mio".
+![](https://github.com/MiosTechTime/MiosTechTime/blob/main/giphy.gif)
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathon, but I prefer "Mio".    
 =====================================================================================================================================================
 
 \-B.S. Computer Science in progress-
 ------------------------------------
 
-Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Computer Science, and I intend to follow up with my M.S. in Cybersecurity. I recently made the jump from sales to tech as I've always been involved in STEM but was just too caught up in life to manage University, until now. Working in sales has left me feeling unfulfilled and like I am contributing towards nothing of value, I want to be a creator, a researcher, and make a difference in a field I've been passionate about since I was a child. My long-term goal is to create an AI development team with a focus on cybersecurity and penetration testing, as well as security education. I'd love to get connected with other students, developers, and techs involved in cybersecurity, not for one specific reason, but many. I hope you stick around and watch my growth and list of achievements grow as I progress towards my goal's, and I hope that you too, can achieve everything you wish for. Lets change the world :).
+Hey! My name is Mio! I'm a student currently enrolled at WGU for a B.S. in Computer Science, and I intend to follow up with my M.S. in Cybersecurity. I recently made the jump from sales to tech as I've always been involved in STEM but was just too caught up in life to manage University, until now. Working in sales has left me feeling unfulfilled and like I am contributing towards nothing of value, I want to be a creator, a researcher, and make a difference in a field I've been passionate about since I was a child. My long-term goal is to create an AI development team with a focus on cybersecurity and penetration testing, as well as security education. I'd love to get connected with other students, developers, and techs involved in cybersecurity, not for one specific reason, but many. I hope you stick around and watch my growth and list of achievements grow as I progress towards my goals, and I hope that you too, can achieve everything you wish for. Let's change the world :).
 
-* 🌍  I'm based in Clearwater, FL, USA, but I have hopes of being fully-remote one day so I can explore the world ✈️🌏
+* 🌍  I'm based in Clearwater, FL, USA, but I have hopes of being fully remote one day so I can explore the world ✈️🌏
 * 🖥️  See my portfolio at [wordpress.com!](http://wordpress.com)
 * ✉️  You can contact me at [miostechtime@gmail.com](mailto:miostechtime@gmail.com)
 * 🚀  I'm currently working on [my home lab!](http://wordpress.com)
-* 🧠  I'm learning all of these certifications: AWS Cloud Practitioner, CompTIA A+, Google Cybersecurity, Google UX Design, IBM Applied AI Professional, Axelos ITIL, and more (dun dunn dunnn)
-* 🤝  I'm open to collaborating on just about anything pertaining AI or Cybersecurity, but Im particularly fond of creative ventures.
-* ⚡  I like pizza 🍕, Japanese whisky 🍸, and people who are down to earth 👽. 
+* 🧠  I'm learning all of these certifications: AWS Cloud Practitioner, CompTIA A+, Google Cybersecurity, Google UX Design, IBM Applied AI Professional, Axelos ITIL, and more... (*dun dunn dunnn*)
+* 🤝  I'm open to collaborating on just about anything pertaining to AI or Cybersecurity, but I'm particularly fond of creative ventures.
+* ⚡  I like pizza 🍕, Japanese whisky 🍸, and people who aren't rude ❤️ 
 
 ### Skills
 
